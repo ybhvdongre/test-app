@@ -1,0 +1,13 @@
+.employee__data {
+    display: block;
+    margin:2px auto;
+  }
+  
+.employee__data >h1 {
+    text-align: center;
+}
+
+#addDatabtn {
+  border-radius: 8px;
+  margin: 2px 5px;
+}
